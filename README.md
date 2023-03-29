@@ -4,7 +4,7 @@
 
 [![mirotvoretts's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirotvoretts&theme=dark&show_icons=true&icon_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-### Language and Tools 💻
+### Languages and Tools 💻
 
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
