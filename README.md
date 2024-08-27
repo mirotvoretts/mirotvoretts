@@ -1,4 +1,4 @@
-## I'm a beginner Unity developer 🎮
+## I'm a beginner developer!
 
 ### My GitHub Account Stats 🎬
 
