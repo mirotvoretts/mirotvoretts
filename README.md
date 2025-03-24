@@ -6,10 +6,13 @@
 
 ### Languages and Tools
 
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B)
 ![Boost](https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white)
 ![Qt6](https://img.shields.io/badge/Qt6-black?style=for-the-badge&logo=qt&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-black?style=for-the-badge&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 
