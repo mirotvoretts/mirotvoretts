@@ -8,6 +8,8 @@
 
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-000000?style=for-the-badge&logo=google&logoColor=white)
 ![Boost](https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white)
 ![Qt6](https://img.shields.io/badge/Qt6-black?style=for-the-badge&logo=qt&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-black?style=for-the-badge&logo=cmake&logoColor=white)
