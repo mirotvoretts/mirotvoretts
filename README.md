@@ -1,4 +1,4 @@
-## I'm a beginner С++ Developer
+<h2 align="center">Hi there, i'm Backend Developer (C++)
 
 ### My GitHub Account Stats
 
