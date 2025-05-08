@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, i'm Backend Developer (C++)
+<h1 align="center">👀 Hi there, i'm Backend C++ Developer
 
 ### My GitHub Account Stats
 
