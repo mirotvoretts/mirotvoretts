@@ -2,7 +2,7 @@
 
 ### My GitHub Account Stats
 
-[![mirotvoretts's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirotvoretts&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![mirotvoretts's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirotvoretts&theme=transparent&title_color=478be6&text_color=9198a1&show_icons=true&icon_color=478be6)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 
